@@ -1,0 +1,12 @@
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\bin\Debug\net6.0\Booking.Domain.deps.json
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\bin\Debug\net6.0\Booking.Domain.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\bin\Debug\net6.0\Booking.Domain.pdb
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\obj\Debug\net6.0\Booking.Domain.csproj.AssemblyReference.cache
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\obj\Debug\net6.0\Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\obj\Debug\net6.0\Booking.Domain.AssemblyInfoInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\obj\Debug\net6.0\Booking.Domain.AssemblyInfo.cs
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\obj\Debug\net6.0\Booking.Domain.csproj.CoreCompileInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\obj\Debug\net6.0\Booking.Domain.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\obj\Debug\net6.0\refint\Booking.Domain.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\obj\Debug\net6.0\Booking.Domain.pdb
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Domain\obj\Debug\net6.0\ref\Booking.Domain.dll

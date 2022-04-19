@@ -1,0 +1,17 @@
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\bin\Debug\net6.0\Booking.Application.deps.json
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\bin\Debug\net6.0\Booking.Application.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\bin\Debug\net6.0\Booking.Application.pdb
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\bin\Debug\net6.0\Booking.Domain.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\bin\Debug\net6.0\Booking.Infrastructure.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\bin\Debug\net6.0\Booking.Domain.pdb
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\bin\Debug\net6.0\Booking.Infrastructure.pdb
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\obj\Debug\net6.0\Booking.Application.csproj.AssemblyReference.cache
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\obj\Debug\net6.0\Booking.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\obj\Debug\net6.0\Booking.Application.AssemblyInfoInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\obj\Debug\net6.0\Booking.Application.AssemblyInfo.cs
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\obj\Debug\net6.0\Booking.Application.csproj.CoreCompileInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\obj\Debug\net6.0\Booking.Application.csproj.CopyComplete
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\obj\Debug\net6.0\Booking.Application.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\obj\Debug\net6.0\refint\Booking.Application.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\obj\Debug\net6.0\Booking.Application.pdb
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Application\obj\Debug\net6.0\ref\Booking.Application.dll

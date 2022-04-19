@@ -1,0 +1,17 @@
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\bin\Debug\net6.0\Booking.Infrastructure.deps.json
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\bin\Debug\net6.0\Booking.Infrastructure.runtimeconfig.json
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\bin\Debug\net6.0\Booking.Infrastructure.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\bin\Debug\net6.0\Booking.Infrastructure.pdb
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\bin\Debug\net6.0\Booking.Domain.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\bin\Debug\net6.0\Booking.Domain.pdb
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\Booking.Infrastructure.csproj.AssemblyReference.cache
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\Booking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\Booking.Infrastructure.AssemblyInfoInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\Booking.Infrastructure.AssemblyInfo.cs
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\Booking.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\Booking.Infrastructure.csproj.CopyComplete
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\Booking.Infrastructure.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\refint\Booking.Infrastructure.dll
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\Booking.Infrastructure.pdb
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\Booking.Infrastructure.genruntimeconfig.cache
+D:\Full-Stack\Visual studio 2022\Projects\Booking.API\Booking.Infrastructure\obj\Debug\net6.0\ref\Booking.Infrastructure.dll
